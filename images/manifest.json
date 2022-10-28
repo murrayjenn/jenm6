@@ -1,0 +1,66 @@
+{
+  "id" : "https://murrayjenn.github.io/jenm6/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in murrayjenn/jenm6 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 4032,
+    "id" : "https://murrayjenn.github.io/jenm6/images/Ald332outersurfaceboardsandspine/canvas/",
+    "label" : {
+      "none" : [ "Ald332outersurfaceboardsandspine" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://murrayjenn.github.io/jenm6/images/Ald332outersurfaceboardsandspine/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://murrayjenn.github.io/jenm6/images/Ald332outersurfaceboardsandspine/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 71
+            }, {
+              "width" : 252,
+              "height" : 142
+            }, {
+              "width" : 504,
+              "height" : 284
+            }, {
+              "width" : 1008,
+              "height" : 567
+            }, {
+              "width" : 2016,
+              "height" : 1134
+            }, {
+              "width" : 4032,
+              "height" : 2268
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4032,
+            "@id" : "https://murrayjenn.github.io/jenm6/images/Ald332outersurfaceboardsandspine",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2268
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4032,
+          "id" : "https://murrayjenn.github.io/jenm6/images/Ald332outersurfaceboardsandspine/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2268
+        },
+        "target" : "https://murrayjenn.github.io/jenm6/images/Ald332outersurfaceboardsandspine/canvas/"
+      } ]
+    } ],
+    "height" : 2268
+  } ]
+}
